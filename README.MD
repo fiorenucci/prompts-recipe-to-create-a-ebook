@@ -45,7 +45,7 @@ Microsoft Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Faça uma imagem em pixeç art de um Jedi flutuando sobre o logotipo do Python, com fundo azul escuro |
+| título | Faça uma imagem em pixel art de um Jedi flutuando sobre o logotipo do Python, com fundo azul escuro |
 
 ## ✨ Features
 
